@@ -11,6 +11,9 @@
 ![alt text](<tambahItem.png>)
 ![alt text](<list.png>)
 ![alt text](<detail.png>)
+### Edit
 ![alt text](<edit.png>)
+### Hapus produk
 ![alt text](<hapus.png>)
+### List setelah di hapus dan update
 ![alt text](<listsetelah.png>) 
